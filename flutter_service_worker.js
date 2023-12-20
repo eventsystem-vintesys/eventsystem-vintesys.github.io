@@ -13,8 +13,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "b4460a098d9b389629f2315daafe81ac
 "assets/assets/app_images/logo_amber.png": "4cebfc75a7f9b52e263e81ecaea9c361",
 "assets/assets/ca/lets-encrypt-r3.pem": "be77e5992c00fcd753d1b9c11d3768f2",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "de190cd13f986f553b945616e07026a9",
-"assets/NOTICES": "9a0ab348082585ca4360f03a1aff9c1d",
+"assets/fonts/MaterialIcons-Regular.otf": "a25ee47e5f10e166b88f56a2ad17f1c8",
+"assets/NOTICES": "b1b8de681c28e33b8b097593524ac0cf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "4df34cc5230722848a16894e988c4ca5",
 "assets/packages/flutter_multi_formatter/flags/png/ad.png": "77ce19646f93c63a2387f2840bc9686e",
 "assets/packages/flutter_multi_formatter/flags/png/ae.png": "1439ab85e1ef23242fe7885da8a19091",
@@ -293,9 +293,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b4460a098d9b389629f2315daafe81ac
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "90c17ab321d2426265306b72400fd402",
-"/": "90c17ab321d2426265306b72400fd402",
-"main.dart.js": "b94ebd4f636236b1eedb12929a9c7b18",
+"index.html": "b9499737621f215af4b66f381bade0f8",
+"/": "b9499737621f215af4b66f381bade0f8",
+"main.dart.js": "6d0a111a357916b300a80246bc4a5fc6",
 "manifest.json": "335936554e90495cc6cfcf541570e56f",
 "version.json": "84da346dca01c50249a809ce71128c0e"};
 // The application shell files that are downloaded before a service worker can
